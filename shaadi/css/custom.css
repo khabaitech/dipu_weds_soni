@@ -1,0 +1,84 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+.navfont{
+	
+}
+.ganesha{
+	font-family: 'Eczar', serif;
+	
+	font-size: 70px;
+	color: #ff3300;
+}
+.swastik{
+		height:5%;
+		width: 5%;
+	}
+	.sticker{
+		height: 15%;
+		width: 15%;
+	}
+	.kalash{
+		height: 7%;
+		width: 5%;
+	}
+.mantra{
+	font-family: 'Kalam', cursive;
+	
+}
+.abt{
+	font-family: 'Amita', cursive;
+	font-size: 30px;
+}
+.abt2{ font-size: 30px;
+	font-family: 'Gotu', sans-serif; 
+	color:#ff0000;
+}
+.name{
+	font-family: 'Amita', cursive;
+	font-size: 22px;
+	
+}
+.sang{font-family: 'Rozha One', serif;
+font-size: 70px;
+color: #ff0000;
+text-align: center;
+}
+.parent{
+	font-family: 'Kalam', cursive;
+	font-size: 25px;
+	
+}
+.parent span{
+	color: #ff3399;
+	font-size: 25px;
+	font-family: 'Gotu', sans-serif; 
+}
+.head2{
+	font-size: 50px;
+	font-family: 'Amita', cursive;
+	color: #ff3300;
+}
+.subhead2
+{
+	font-family:'Gotu', sans-serif;
+	color: #1a75ff;
+	font-size: 30px;
+}
+.name1{
+	font-family: 'Kalam', cursive;
+	font-size: 20px;
+	color: #cc0099;
+}
+.name2{
+	font-family: 'Kalam', cursive;
+	font-size: 30px;
+	color: #cc0099;
+}
+.pfont{
+	font-family: 'Laila', serif;
+	font-size: 20px;
+}
+.notice{
+	font-size: 30px;
+
+}
